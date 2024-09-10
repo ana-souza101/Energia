@@ -1,6 +1,7 @@
 body{
     background-color: rgb(57, 58, 58);
     color: white;
+    text-align: center;
 }
 nav{
     text-align: center;
@@ -10,6 +11,7 @@ nav a{
     text-decoration: none;
     color:white;
     font-weight: bold;
+    text-align: center;
 }
 a:hover{
     background-color: brown;
@@ -28,6 +30,7 @@ img{
     border: 10px solid;
     border-radius: 15px;
     border-color: brown;
+    text-align: center;
 }
 div img{
 
